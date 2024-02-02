@@ -23,5 +23,5 @@ To use this app, ensure you have Flutter installed. Clone the repository and run
 
 ```bash
 flutter run
-
+```
 ![IMAGE 1](lab_2_task2/task_2.1.png)
