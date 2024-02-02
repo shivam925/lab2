@@ -118,6 +118,10 @@ This documentation guides you through the process of transitioning from a Figma 
     flutter run
     ```
 
+# Task 1 screenshots
+
+![Image 1](lab_2_images/task_2.1.png)
+
 Your Flutter app should launch, and you can navigate from Screen 1 to Screen 2 by clicking the button.
 
 
